@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Full Stack Developer",
+    "company": "TechFlow Inc.",
+    "description": "We are looking for a senior full-stack developer to join our innovative team building next-generation web applications. You'll work with React, Node.js, and cloud technologies to create scalable solutions that serve millions of users worldwide.",
+    "requirements": [
+      "5+ years experience with React and TypeScript",
+      "Strong backend development with Node.js",
+      "Experience with AWS or similar cloud platforms",
+      "Database design and optimization (MongoDB, PostgreSQL)",
+      "RESTful API design and GraphQL",
+      "Microservices architecture",
+      "Test-driven development",
+      "Agile development methodologies"
+    ],
+    "salary": "$120,000 - $160,000",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "remote": false,
+    "skills": ["React", "TypeScript", "Node.js", "AWS", "MongoDB", "GraphQL", "Docker", "Kubernetes"]
+  },
+  {
+    "id": "2",
+    "title": "Frontend Engineering Lead",
+    "company": "InnovateAI",
+    "description": "Lead our frontend engineering team in creating beautiful, performant user experiences for our AI-powered platform. You'll mentor junior developers while architecting scalable frontend solutions using modern frameworks and tools.",
+    "requirements": [
+      "7+ years frontend development experience",
+      "3+ years team leadership experience",
+      "Expert knowledge of React and modern JavaScript",
+      "Experience with state management (Redux, Zustand)",
+      "Performance optimization and monitoring",
+      "UI/UX design principles",
+      "Mentoring and code review skills",
+      "Cross-functional collaboration"
+    ],
+    "salary": "$140,000 - $180,000",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["React", "TypeScript", "Redux", "CSS", "GraphQL", "Team Leadership", "Performance Optimization", "Mentoring"]
+  },
+  {
+    "id": "3",
+    "title": "Product Engineer",
+    "company": "StartupXYZ",
+    "description": "Join our small but mighty team to build products that solve real problems for millions of users. You'll work closely with product managers and designers to ship features that customers love, from concept to deployment.",
+    "requirements": [
+      "3+ years full-stack development",
+      "Strong product intuition and user empathy",
+      "Experience with rapid prototyping",
+      "Frontend skills (React, Vue, or Angular)",
+      "Backend API development",
+      "Data analysis and A/B testing",
+      "Startup experience preferred",
+      "Self-directed and collaborative"
+    ],
+    "salary": "$100,000 - $140,000",
+    "location": "Remote",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["JavaScript", "React", "Python", "API Design", "Product Thinking", "A/B Testing", "Data Analysis", "Prototyping"]
+  },
+  {
+    "id": "4",
+    "title": "DevOps Engineer",
+    "company": "CloudTech Solutions",
+    "description": "Help us scale our infrastructure and improve developer experience through automation and cloud technologies. You'll design and maintain CI/CD pipelines, monitor system performance, and ensure high availability for our services.",
+    "requirements": [
+      "4+ years DevOps/SRE experience",
+      "Strong knowledge of AWS/GCP/Azure",
+      "Container orchestration (Docker, Kubernetes)",
+      "Infrastructure as Code (Terraform, CloudFormation)",
+      "CI/CD pipeline design and optimization",
+      "Monitoring and logging (Prometheus, ELK stack)",
+      "Scripting languages (Python, Bash)",
+      "Security best practices"
+    ],
+    "salary": "$110,000 - $150,000",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "remote": false,
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Python", "Monitoring", "Security"]
+  },
+  {
+    "id": "5",
+    "title": "Data Scientist",
+    "company": "Analytics Pro",
+    "description": "Drive business decisions through advanced analytics and machine learning. You'll work with large datasets to uncover insights, build predictive models, and communicate findings to stakeholders across the organization.",
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or related field",
+      "3+ years experience in data analysis",
+      "Proficiency in Python and R",
+      "Machine learning frameworks (scikit-learn, TensorFlow)",
+      "SQL and database querying",
+      "Data visualization (Tableau, matplotlib, plotly)",
+      "Statistical analysis and hypothesis testing",
+      "Business acumen and communication skills"
+    ],
+    "salary": "$95,000 - $135,000",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["Python", "R", "Machine Learning", "SQL", "TensorFlow", "Tableau", "Statistics", "Data Visualization"]
+  },
+  {
+    "id": "6",
+    "title": "Mobile App Developer",
+    "company": "MobileTech Inc.",
+    "description": "Build cutting-edge mobile applications for iOS and Android platforms. You'll work with cross-functional teams to deliver high-quality, user-friendly mobile experiences using modern development frameworks.",
+    "requirements": [
+      "4+ years mobile app development",
+      "React Native or Flutter experience",
+      "Native iOS (Swift) and/or Android (Kotlin) development",
+      "RESTful API integration",
+      "App store submission and optimization",
+      "Mobile UI/UX best practices",
+      "Performance optimization",
+      "Push notifications and analytics integration"
+    ],
+    "salary": "$105,000 - $145,000",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["React Native", "Flutter", "Swift", "Kotlin", "Mobile Development", "API Integration", "App Store", "Push Notifications"]
+  },
+  {
+    "id": "7",
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet Systems",
+    "description": "Protect our organization from cyber threats by monitoring, analyzing, and responding to security incidents. You'll implement security measures, conduct risk assessments, and ensure compliance with industry standards.",
+    "requirements": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "3+ years cybersecurity experience",
+      "Knowledge of security frameworks (NIST, ISO 27001)",
+      "Experience with SIEM tools",
+      "Incident response and forensics",
+      "Vulnerability assessment and penetration testing",
+      "Security certifications (CISSP, CEH, CISA) preferred",
+      "Strong analytical and problem-solving skills"
+    ],
+    "salary": "$85,000 - $125,000",
+    "location": "Washington, DC",
+    "type": "Full-time",
+    "remote": false,
+    "skills": ["Cybersecurity", "SIEM", "Incident Response", "Penetration Testing", "Risk Assessment", "Compliance", "Forensics", "Security Frameworks"]
+  },
+  {
+    "id": "8",
+    "title": "UX/UI Designer",
+    "company": "DesignStudio Creative",
+    "description": "Create exceptional user experiences through thoughtful design and user research. You'll collaborate with product teams to design intuitive interfaces that delight users and drive business objectives.",
+    "requirements": [
+      "4+ years UX/UI design experience",
+      "Proficiency in design tools (Figma, Sketch, Adobe Creative Suite)",
+      "User research and usability testing",
+      "Wireframing and prototyping",
+      "Design systems and component libraries",
+      "Mobile and responsive design",
+      "Accessibility and inclusive design principles",
+      "Strong portfolio demonstrating design process"
+    ],
+    "salary": "$90,000 - $130,000",
+    "location": "Los Angeles, CA",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["UX Design", "UI Design", "Figma", "User Research", "Prototyping", "Design Systems", "Accessibility", "Mobile Design"]
+  },
+  {
+    "id": "9",
+    "title": "Machine Learning Engineer",
+    "company": "AI Innovations Corp",
+    "description": "Deploy machine learning models at scale to solve complex business problems. You'll work on the full ML lifecycle from data preprocessing to model deployment and monitoring in production environments.",
+    "requirements": [
+      "Master's degree in Computer Science, ML, or related field",
+      "4+ years machine learning experience",
+      "Python programming and ML libraries (scikit-learn, TensorFlow, PyTorch)",
+      "Model deployment and MLOps practices",
+      "Cloud platforms (AWS SageMaker, Google AI Platform)",
+      "Data engineering and ETL pipelines",
+      "A/B testing and experiment design",
+      "Deep learning and neural networks"
+    ],
+    "salary": "$130,000 - $170,000",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["Machine Learning", "Python", "TensorFlow", "PyTorch", "MLOps", "AWS", "Deep Learning", "Data Engineering"]
+  },
+  {
+    "id": "10",
+    "title": "Backend Engineer",
+    "company": "ScaleTech Solutions",
+    "description": "Build robust, scalable backend systems that power our platform. You'll design APIs, optimize database performance, and ensure system reliability while working with microservices architecture.",
+    "requirements": [
+      "4+ years backend development experience",
+      "Strong knowledge of server-side languages (Python, Java, Go, Node.js)",
+      "Database design and optimization (PostgreSQL, MongoDB)",
+      "RESTful API design and GraphQL",
+      "Microservices and distributed systems",
+      "Message queues and event-driven architecture",
+      "Performance monitoring and optimization",
+      "Test-driven development"
+    ],
+    "salary": "$115,000 - $155,000",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "remote": true,
+    "skills": ["Python", "Java", "Go", "PostgreSQL", "MongoDB", "API Design", "Microservices", "Message Queues"]
+  }
+]
