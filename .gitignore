@@ -30,18 +30,10 @@ dist-ssr
 .env
 .env.local
 
-# --- PYTHON BACKEND IGNORES ---
-
-# Ignore the large custom model folder
-backend/my-custom-resume-model/
-
-# Ignore the generated embeddings and cleaned data files
-backend/job_embeddings.pt
-backend/jobs_cleaned.csv
-
-# Ignore Python's cache folders
-backend/__pycache__/
-backend/.pytest_cache/
-
-# Ignore Python virtual environment
-backend/venv/
+# --- BACKEND (.bolt) IGNORES ---
+.bolt/my-custom-resume-model/
+.bolt/job_embeddings.pt
+.bolt/jobs_cleaned.csv
+.bolt/__pycache__/
+.bolt/.pytest_cache/
+.bolt/venv/
